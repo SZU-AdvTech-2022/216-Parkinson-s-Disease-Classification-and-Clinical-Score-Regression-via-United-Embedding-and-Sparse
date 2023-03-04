@@ -1,10 +1,8 @@
-@article{10.1109/TNNLS.2021.3052652,
-author = {Zhongwei Huang; Haijun Lei; Guoliang Chen; Alejandro F. Frangi; Yanwu Xu; Ahmed Elazab£»
-Jing Qin£»
-Baiying Lei},
-title = {Parkinson's Disease Classification and Clinical Score Regression via United Embedding and Sparse Learning from Longitudinal Data},
-journal = {IEEE Transactions on Neural Networks and Learning Systems},
-year = {2021},
-volume = {33},
-number = {8}
+@article{REPO-217,
+    author = "Huang, Zhongwei and Lei, Haijun and Chen, Guoliang and Frangi, Alejandro F. and Xu, Yanwu and Elazab, Ahmed and Qin, Jing and Lei, Baiying",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    number = "8",
+    title = "{Parkinson's Disease Classification and Clinical Score Regression via United Embedding and Sparse Learning from Longitudinal Data}",
+    volume = "33",
+    year = "2021"
 }
